@@ -1,0 +1,9 @@
+// question 2:
+// Personal Message: Store a person’s name in a variable, 
+// and print a message to that person. Your message should be simple, such as, 
+// “Hello Eric, would you like to learn some Python today?”
+
+// ANSWER:
+
+let personName = "sehrish";
+console.log('Hello sehrish, would you like to learn some typescrip today');
